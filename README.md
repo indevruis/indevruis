@@ -19,8 +19,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=indevruis&show_icons=true">
-<br><br>
   
 [![indevruis's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=indevruis&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
