@@ -30,9 +30,8 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   
 <br><br>
-  
-[![indevruis's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=indevruis&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indevruis&langs_count=10&layout=compact&theme=dark)](https://github.com/indevruis/indevruis)﻿
 
 <!--
 **indevruis/indevruis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
